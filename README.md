@@ -1,5 +1,9 @@
 # to-image-data
-> Convert Nested Numerical Arrays into ImageData
+> Convert Nested Numerical Arrays into [ImageData](https://developer.mozilla.org/en-US/docs/Web/API/ImageData/ImageData)
+
+# features
+- Handles Numerical Arrays in Any Layout 
+- Handles Missing Alpha Band
 
 # install
 ```bash
