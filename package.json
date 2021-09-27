@@ -1,6 +1,6 @@
 {
   "name": "to-image-data",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert Nested Numerical Arrays into ImageData Data Array",
   "main": "to-image-data.js",
   "files": [
